@@ -7,6 +7,8 @@
 */
 'use strict'
 
+// Como se validaria la captura de algo no numerico , u otra forma de validarlo ??
+
 while(true){
     var num1= parseFloat(prompt("Insert number 1"))
     var num2= parseFloat(prompt("Insert number 2"))
